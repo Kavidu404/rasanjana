@@ -1,5 +1,3 @@
-# HY BRO WELCOME MY NEW COMMAND ENJOY FREE COMMAND 
-
 $ pkg update -y
 $ pkg upgrade -y
 $ pkg install python
